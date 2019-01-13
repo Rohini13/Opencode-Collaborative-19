@@ -359,6 +359,18 @@
 			"twitter"  : "",
             "referral" : ""
         },
+	    {
+            "name"     : "Rohini13",
+			"imageurl" : "assets/img/participants/Rohini13jpg",
+			"about"    : "learner",
+			"college"  : "IIIT, Allahabad",
+			"facebook" : "",
+			"github"   : "https://github.com/Rohini13",
+			"twitter"  : "",
+            "referral" : ""
+        },
+	     
+	     
    
 
     ]
